@@ -24,6 +24,8 @@ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=6
 
 链接：https://sk.ncer.top/assets/app/Payload.ipa
 
+## 下载较慢，可直接联系我要测试app
+
 
 - 1.原生体验，纵享丝滑，
 
@@ -53,7 +55,7 @@ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=6
 
 - 6.我的浏览记录，播放记录（可存播放进度），收藏记录，播放反馈
 
-- 7.穿山甲及图片两种广告形式接入
+- 7.图片广告形式接入
 
 - 8.API加密
 
@@ -68,6 +70,16 @@ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=6
 - 13.自定义片源
 
 - 14.图片存储链接转换
+
+- 15.会员，卡密支付，邀请码得积分
+
+- 16.专属海报
+
+- 17.公告，影片评论，求片留言
+
+- 18.ipad列表适配
+
+- 等等
 
 ## 可配置项：
 
@@ -86,6 +98,8 @@ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=6
 - 7.视频解析接口地址
 
 - 8.图片大小设置，节省CDN流量
+
+- 等等
 
 ## 部分截图
 
