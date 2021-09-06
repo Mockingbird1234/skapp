@@ -92,11 +92,3 @@ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=6
 - 8.图片大小设置，节省CDN流量
 
 - 等等
-
-## 部分截图
-
-<img src="./images/index_1.jpg" width="300px" />
-<img src="./images/index_3.jpg" width="300px" />
-<img src="./images/index_4.jpg" width="300px" />
-<img src="./images/index_5.jpg" width="300px" />
-<img src="./images/index_6.jpg" width="300px" />
