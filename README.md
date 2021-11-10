@@ -4,7 +4,7 @@
 
 ## 网页版
 
-http://sk.skapp.one
+http://www.skapp.one
 
 ## QQ交流群：904279490
 
