@@ -4,15 +4,7 @@
 
 ## 网页版
 
-https://sk.ncer.top
-
-## 淘宝店铺直达
-
-https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debmvIFBe&ft=t&id=637993247789
-
-## 联系邮箱
-
-1768385508@qq.com
+http://sk.skapp.one
 
 ## QQ交流群：904279490
 
